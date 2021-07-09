@@ -50,7 +50,7 @@
                             <span></span>
                             <button class="w3-button" style="padding: 0;">Submit</button>
                         </a>
-                        <a href="enterEmail.php" style="font-size: 10px; margin-left: 27px;">Forgot your password?</a>
+                        <a href="forGotPass.php" style="font-size: 10px; margin-left: 27px;">Forgot your password?</a>
                     </form>
                 </div>
                 <!-- signin -->
